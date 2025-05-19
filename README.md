@@ -1,6 +1,9 @@
 # OpenCrosshairZoom
 # A open source version of the crappy crosshair zoom widget for windows.
 
+![image](https://github.com/user-attachments/assets/96c1ba2f-d85e-44e4-af04-c0b57bc5bc32)
+
+
 Created with python and is very lightweight.
 way better than the $20 scam that CrosshairZoom is.
 this is seperate from gamebar so it wont use that bloatware.
@@ -31,3 +34,6 @@ CHANGE self.clock.tick(60)
 # COMPLETLY OPEN SOURCE!
 
 # 100% FREE
+
+
+note in the image i use crossover for the crosshair
