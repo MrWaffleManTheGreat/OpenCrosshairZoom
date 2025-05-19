@@ -7,7 +7,7 @@ this is seperate from gamebar so it wont use that bloatware.
 
 # DIRECTIONS:
 
-pip install pygame pillow ctypes
+pip install pillow pywin32
 
 F2 centers the window on the mouse
 
