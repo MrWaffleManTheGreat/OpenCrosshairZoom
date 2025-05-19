@@ -7,7 +7,7 @@ this is seperate from gamebar so it wont use that bloatware.
 
 # DIRECTIONS:
 
-pip install pillow pywin32
+pip install pillow pywin32 pygame
 
 F2 centers the window on the mouse
 
@@ -16,6 +16,14 @@ F3 moves the window's top-left corner to the mouse
 ESC exits the application
 
 The window remains click-through and borderless
+
+# To enable built in crosshair
+
+change the following:
+
+ pygame.draw.circle(self.screen, (R,G,B),
+                                    (self.size//X, self.size//Y), RADIUS)
+
 
 # COMPLETLY OPEN SOURCE!
 
