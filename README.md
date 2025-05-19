@@ -39,6 +39,7 @@ bbox = (x-75, y-75, x+75, y+75)
 
 it captures a 150×150 region around the cursor which is then resized to self.size × self.size (300×300 effectively giving a 2x zoom
 
+note: it will appear blurry if its a sub pixel count (eg 100 pixels scaling to 200.5)
 # COMPLETLY OPEN SOURCE!
 
 # 100% FREE
