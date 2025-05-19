@@ -12,6 +12,8 @@ this is seperate from gamebar so it wont use that bloatware.
 
 pip install pillow pywin32 pygame
 
+download https://github.com/MrWaffleManTheGreat/OpenCrosshairZoom/blob/main/OpenCrosshairZoom.py
+
 F2 centers the window on the mouse
 
 F3 moves the window's top-left corner to the mouse
