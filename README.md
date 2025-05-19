@@ -24,6 +24,9 @@ change the following:
  pygame.draw.circle(self.screen, (R,G,B),
                                     (self.size//X, self.size//Y), RADIUS)
 
+# To change update speed (FPS / FRAMERATE)
+
+CHANGE self.clock.tick(60)
 
 # COMPLETLY OPEN SOURCE!
 
