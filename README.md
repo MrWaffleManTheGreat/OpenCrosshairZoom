@@ -10,6 +10,13 @@ this is seperate from gamebar so it wont use that bloatware.
 
 # DIRECTIONS:
 
+You can now just use the compiled exe in releases!
+of course you can compile your own, or run straight from py.
+>w<
+______
+
+py instructions:
+
 pip install pillow pywin32 pygame
 
 download https://github.com/MrWaffleManTheGreat/OpenCrosshairZoom/blob/main/OpenCrosshairZoom.py
