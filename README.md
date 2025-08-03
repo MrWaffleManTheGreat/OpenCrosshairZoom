@@ -12,7 +12,7 @@ this is seperate from gamebar so it wont use that bloatware.
 
 You can now just use the compiled exe in releases!
 of course you can compile your own, or run straight from py.
->w<
+^w^
 ______
 
 py instructions:
